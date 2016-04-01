@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Senior-Analog-batteryrecharge.PcbDoc   3/31/2016  11:01:04 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Senior-Analog-batteryrecharge.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             2         PTH        0.46inch (11.61mm)
+T2      28mil (0.711mm)                                           Round             5         PTH        1.35inch (34.20mm)
+T3      35mil (0.9mm)                                             Round             2         PTH        0.10inch (2.54mm)
+T4      37mil (0.94mm)                                            Round             10        PTH        2.14inch (54.29mm)
+T5      71mil (1.8mm)                                             Round             3         PTH        0.37inch (9.40mm)
+T6      120mil (3.048mm)                                          Round             2         PTH        0.22inch (5.58mm)
+T7      138mil (3.5mm)                                            Round             5         PTH        6.12inch (155.41mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              29
+
+Total Processing Time (hh:mm:ss) : 00:00:00
